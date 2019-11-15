@@ -12,7 +12,6 @@ This pack is LGBTQ Friendly and supports the LGBTQ Community.
 
 <p align="center">
 	<img src="https://raw.githubusercontent.com/tpacks/transcraft/master/fight-together.png">
-	
 	<b>Remember the fallen!</b>
 </p>
 
