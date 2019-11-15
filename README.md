@@ -10,8 +10,10 @@ Also I want to get the base (mostly QoL mods) as lean as possible. So I will be 
 ### LGBTQ Friendly
 This pack is LGBTQ Friendly and supports the LGBTQ Community.
 
-![Fight Together][logo]
+<p align="center">
+	![Fight Together][logo]
 
-Remember the fallen!
+	Remember the fallen!
+</p>
 
 [logo]: https://raw.githubusercontent.com/tpacks/transcraft/master/fight-together.png
