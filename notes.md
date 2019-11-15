@@ -42,6 +42,7 @@ These are just ideas of mods to include, none of these are set in stone yet.
 - Comforts
 - Akashic Tome
 - Client tweaks / Global Gamerules
+- MPUtils / MPUtils Basic Tools
 
 ### Storage
 - Simple Storage Network
