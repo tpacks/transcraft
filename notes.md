@@ -100,3 +100,4 @@ These are just ideas of mods to include, none of these are set in stone yet.
 - Forestry
 - Aquaculture 2
 - Snad
+- Cropdusting
