@@ -1,0 +1,4 @@
+Transpack = registerPreset("TransPack", "images/World", "Fight the Fight!", "RTG")
+
+setAsDefaultWorldType()
+printDocumentation(false)

@@ -3,11 +3,13 @@
     {
         "title":
         {
-            "image" : "vplus:textures/gui/title/transparent.png",
-            "posX" : -137,
+            "image" : "vplus:textures/gui/title/background/logo.png",
+            "posX" : -225,
             "posY" : 30,
-            "width" : 512,
-            "height" : 512,
+            "width": 450,
+            "height": 194,
+            "imageWidth" : 1745,
+            "imageHeight" : 394,
             "alignment" : "top_center"
         }
     },
@@ -18,14 +20,11 @@
         {
             "text" : "menu.singleplayer",
             "posX" : -100,
-            "posY" : 108,
+            "posY" : 25,
             "width" : 200,
             "height" : 20,
-            "normalTextColor" : 16777215,
-            "hoverTextColor" : 5081343,
-            "texture" : "vplus:textures/gui/title/buttons.png",
-            "imageWidth" : 200,
-            "imageHeight" : 50,
+            "texture" : "vplus:textures/gui/title/background/longbutton.png",
+            "alignment": "center",
             "action" : 
             {
                 "type" : "openGui",
@@ -37,14 +36,11 @@
         {
             "text" : "menu.multiplayer",
             "posX" : -100,
-            "posY" : 132,
+            "posY" : 48,
             "width" : 200,
             "height" : 20,
-            "normalTextColor" : 16777215,
-            "hoverTextColor" : 5081343,
-            "texture" : "vplus:textures/gui/title/buttons.png",
-            "imageWidth" : 200,
-            "imageHeight" : 50,
+			"texture" : "vplus:textures/gui/title/background/longbutton.png",
+			"alignment": "center",
             "action" : 
             {
                 "type" : "openGui",
@@ -56,14 +52,11 @@
         {
             "text" : "fml.menu.mods",
             "posX" : -100,
-            "posY" : 156,
+            "posY" : 71,
             "width" : 200,
             "height" : 20,
-            "normalTextColor" : 16777215,
-            "hoverTextColor" : 5081343,
-            "texture" : "vplus:textures/gui/title/buttons.png",
-            "imageWidth" : 200,
-            "imageHeight" : 50,
+            "texture" : "vplus:textures/gui/title/background/longbutton.png",
+            "alignment": "center",
             "action" : 
             {
                 "type" : "openGui",
@@ -73,20 +66,18 @@
         
         "language":
         {
-            "text" : "Language",
-            "posX" : -100,
-            "posY" : 180,
-            "width" : 200,
-            "height" : 20,
-            "normalTextColor" : 16777215,
-            "hoverTextColor" : 5081343,
-            "texture" : "vplus:textures/gui/title/buttons.png",
-            "imageWidth" : 200,
-            "imageHeight" : 50,
-            "action" : 
-            {
-                "type" : "openGui",
-                "gui" : "languages"
+            "text": " ",
+            "texture" : "vplus:textures/gui/title/background/lang.png",
+            "posX": -124,
+            "posY": 94,
+            "width": 20,
+            "height": 20,
+            "alignment": "center",
+            "imageWidth": "40",
+            "imageHeight": "40",
+            "action": {
+            	"type": "openGui",
+            	"gui": "languages"
             }
         },
 
@@ -94,14 +85,11 @@
         {
             "text" : "menu.options",
             "posX" : -100,
-            "posY" : 204,
-            "width" : 200,
+            "posY" : 94,
+            "width" : 98,
             "height" : 20,
-            "normalTextColor" : 16777215,
-            "hoverTextColor" : 5081343,
-            "texture" : "vplus:textures/gui/title/buttons.png",
-            "imageWidth" : 200,
-            "imageHeight" : 50,
+            "texture" : "vplus:textures/gui/title/background/shortbutton.png",
+            "alignment": "center",
             "action" : 
             {
                 "type" : "openGui",
@@ -112,15 +100,12 @@
         "quit":
         {
             "text" : "menu.quit",
-            "posX" : -100,
-            "posY" : 248,
-            "width" : 200,
+            "posX" : 2,
+            "posY" : 94,
+            "width" : 98,
             "height" : 20,
-            "normalTextColor" : 16777215,
-            "hoverTextColor" : 5081343,
-            "texture" : "vplus:textures/gui/title/buttons.png",
-            "imageWidth" : 200,
-            "imageHeight" : 50,
+            "texture" : "vplus:textures/gui/title/background/shortbutton.png",
+            "alignment": "center",
             "action" : 
             {
                 "type" : "quit"
@@ -158,7 +143,7 @@
     {      
         "background" :
         {
-            "image" : "vplus:textures/gui/title/background/title.png",
+            "image" : "vplus:textures/gui/title/background/bg_girls.png",
             "mode" : "stretch"
         }
     }

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920"
+   height="1080"
+   viewBox="0 0 507.99999 285.75001"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="logo.svg"
+   enable-background="new">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient92">
+      <stop
+         style="stop-color:#804400;stop-opacity:1"
+         offset="0"
+         id="stop88" />
+      <stop
+         style="stop-color:#808080;stop-opacity:0;"
+         offset="1"
+         id="stop90" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient92"
+       id="radialGradient94"
+       cx="237.11375"
+       cy="105.46218"
+       fx="237.11375"
+       fy="105.46218"
+       r="224.06707"
+       gradientTransform="matrix(4.9523956,2.2087897e-7,0,0.39186003,-937.16735,44.921201)"
+       gradientUnits="userSpaceOnUse" />
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Blur"
+       id="filter315">
+      <feGaussianBlur
+         stdDeviation="4.10795 4.11"
+         result="blur"
+         id="feGaussianBlur313" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="950.05267"
+     inkscape:cy="864.08091"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-11.249983)"
+     style="display:none" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="TransPack"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:87.8744812px;line-height:1.25;font-family:INFECTED;-inkscape-font-specification:'INFECTED, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#radialGradient94);fill-opacity:1;stroke:#333333;stroke-width:2.19689107"
+       x="46.779556"
+       y="89.477058"
+       id="text12"
+       transform="matrix(1.0306374,0,0,0.97027333,0,-11.249983)"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         x="46.779556"
+         y="89.477058"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:87.8744812px;font-family:INFECTED;-inkscape-font-specification:'INFECTED, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:2.19689107;fill:url(#radialGradient94);stroke:#333333">TransPack</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="slogan shadow"
+     style="opacity:0.52">
+    <text
+       transform="matrix(0.78022622,0,0,1.2816796,0,-11.249983)"
+       id="text99"
+       y="85.649071"
+       x="312.84671"
+       style="display:inline;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:19.35053253px;line-height:1.25;font-family:superpowers;-inkscape-font-specification:'superpowers, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.48376325;filter:url(#filter315)"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:19.35053253px;font-family:superpowers;-inkscape-font-specification:'superpowers, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.48376325;fill:#000000;stroke:#000000"
+         y="85.649071"
+         x="312.84671"
+         id="tspan97"
+         sodipodi:role="line">a LGTBQ Friendly pack!</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="slogan"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:19.35053253px;line-height:1.25;font-family:superpowers;-inkscape-font-specification:'superpowers, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#d09c10;fill-opacity:1;stroke:#000000;stroke-width:0.48376325;"
+       x="312.84671"
+       y="85.649071"
+       id="text16"
+       transform="matrix(0.78022622,0,0,1.2816796,0,-11.249983)"><tspan
+         sodipodi:role="line"
+         id="tspan14"
+         x="312.84671"
+         y="85.649071"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:19.35053253px;font-family:superpowers;-inkscape-font-specification:'superpowers, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#d09c10;stroke:#000000;stroke-width:0.48376325;">a LGTBQ Friendly pack!</tspan></text>
+  </g>
+</svg>

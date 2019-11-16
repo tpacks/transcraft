@@ -1,10 +1,11 @@
-background = addStretchedTexture("top_left", "vplus:textures/gui/title/background/bg5.png")
+background = addStretchedTexture("top_left", "vplus:textures/gui/title/background/loading.png")
 background.setRelRender(1, 1)
 
 tips = addRandomText("top_left")
-tips.setAbsXOffset(5)
-tips.SetAbsYOffset(5)
+tips.setAbsXOffset(10)
+tips.SetAbsYOffset(10)
 tips.addTip("Use F7 to see light levels on the ground and F9 to see the chunk borders.")
 tips.addTip("Don't let those creepers get you.")
 tips.addTip("Did you know Crafting Tables don't burn?")
-
+tips.addTip("This is a tip you are reading.")
+tips.addTip("Do you know you can create your own modpack?")
